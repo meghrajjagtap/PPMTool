@@ -1,13 +1,13 @@
-package com.fullstackexample.ppmtool;
+package com.example.demo;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class PpmtoolApplication {
+public class DemoApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(PpmtoolApplication.class, args);
+		SpringApplication.run(DemoApplication.class, args);
 	}
 
 }
