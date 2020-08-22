@@ -68,6 +68,4 @@ public class ProjectService {
         projectRepository.delete(p);
     }
 
-    public
-
 }
